@@ -1,4 +1,4 @@
-## SSRDOG简介
+# SSRDOG机场最新官方地址入口-优惠码-套餐指南
 
 SSRDOG 机场采用 Shadowsocks 专用协议，线路有 IEPL 和 IPLC 专线，对 Netflix、Disney+ 流媒体解锁支持度也很好。SSRDOG 机场有定制的一键翻墙VPN客户端，支持安卓、Mac 和 Windows 。iOS 用户推荐使用 Shadowrocket 小火箭代理软件。SSRDOG 机场注册可免费试用，除了常规包月套餐外，也有不限时长的按量付费流量包套餐，套餐年付有优惠，并额外再赠送2个月时长。9折优惠码：999
 
